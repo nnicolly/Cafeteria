@@ -77,10 +77,13 @@ Carrinho dinâmico
 
 Finalização da compra
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
+
+```bash
 /
-├── index.html       (todo o site em uma página só)
-├── db.json          (banco de dados da API local)
-├── package.json     (configuração do projeto Node)
+├── index.html       # todo o site em uma página só
+├── db.json          # banco de dados da API local
+├── package.json     # configuração do projeto Node
 ├── package-lock.json
-└── node_modules/    (criado automaticamente pelo npm)
+└── node_modules/    # criado automaticamente pelo npm
+
