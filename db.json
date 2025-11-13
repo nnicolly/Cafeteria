@@ -15,6 +15,38 @@
       "price": 4.5,
       "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhdHRlfGVufDB8fDB8fHww",
       "id": 2
+    },
+    {
+      "title": "Capuccino",
+      "description": "Preparado com um espresso bem encorpado, misturado a leite aquecido e finalizado com uma camada leve de espuma. O café se destaca no sabor, trazendo um equilíbrio natural entre a força do espresso e a suavidade do leite",
+      "ingredients": ["Espresso", "Leite vaporizado","Chocolate", "Canela"],
+      "price": 4.0,
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 3
+    },
+    {
+      "title": "Americano",
+      "description": "Feito a partir de um espresso diluído em água quente, preserva o sabor do café, porém com uma intensidade mais suave.",
+      "ingredients": ["Espresso", "Água quente"],
+      "price": 3.5,
+      "image": "https://plus.unsplash.com/premium_photo-1723559972702-2659e41dbb5b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW1lcmljYW5vJTIwY29mZmVlfGVufDB8fDB8fHww",
+      "id": 4
+    },
+    {
+      "title": "Macchiato",
+      "description": "Parecido com o latte, o macchiato é feito com expresso e uma pequena quantidade de leite vaporizado ou espuma de leite. A diferença está na proporção, onde o café é o protagonista, com apenas um toque de leite para suavizar o sabor.",
+      "ingredients": ["Espresso", "Leite vaporizado"],
+      "price": 5.5,
+      "image": "https://images.unsplash.com/photo-1635090976010-d3f6dfbb1bac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fG1hY2NoaWF0byUyMGNvZmZlZXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 5
+    },
+    {
+      "title": "Dalgona",
+      "description": "Preparado com café instantâneo batido com açúcar e água quente até formar um creme espesso, servido sobre leite. O contraste entre o creme de café e o leite cria um sabor marcante, onde o café aparece de forma intensa logo no primeiro gole.",
+      "ingredients": ["Espuma de café com açúcar", "Leite"],
+      "price": 7.0,
+      "image": "https://images.unsplash.com/photo-1589638895165-e80df3583854?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRhbGdvbmElMjBjb2ZmZWV8ZW58MHx8MHx8fDA%3D",
+      "id": 5
     }
   ]
 }
