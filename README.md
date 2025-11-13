@@ -48,11 +48,6 @@ Execute:
 npx json-server db.json
 
 
-Ou, se preferir, usando o script:
-
-npm run server
-
-
 A API será iniciada em:
 
 http://localhost:3000/coffee
